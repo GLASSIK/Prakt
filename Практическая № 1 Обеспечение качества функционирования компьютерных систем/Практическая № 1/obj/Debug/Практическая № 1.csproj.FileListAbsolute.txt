@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\bin\Debug\Практическая № 1.exe.config
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\bin\Debug\Практическая № 1.exe
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\bin\Debug\Практическая № 1.pdb
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая___1.Form1.resources
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая___1.Properties.Resources.resources
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.exe
+C:\Users\User\source\repos\Практическая № 1\Практическая № 1\obj\Debug\Практическая № 1.pdb
